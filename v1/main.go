@@ -1,5 +1,5 @@
 package gotestmodver
 
 func Version() string {
-	return "1.1.1"
+	return "1.1.2"
 }
